@@ -1,0 +1,11 @@
+# Ignore BOM file and local editor/backup files
+bom.csv
+*.lck
+*.bak
+*.swp
+*.tmp
+*.log
+
+# Ignore temporary KiCad workspace files and backups
+pcb/.history/
+pcb/~*
