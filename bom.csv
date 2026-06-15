@@ -1,0 +1,6 @@
+Reference,Qty,Value,Description,Price EUR,Pack Info,Link
+Brd1,1,128x64OLED,SSD1306,2.89,1 pcs,https://de.aliexpress.com/item/1005006514489341.html
+"R1, R2, R3, R4, R5, R6",6,1k Ohm,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,3.30,20 pcs,https://amzn.eu/d/0aSOhZVj
+"U1, U2",2,usbc_module,usb-c connector module to connect the cable to,1.61,5,https://de.aliexpress.com/item/1005007314733520.html
+U3,1,ESP32-DevKitC,ESP32 development board,2.99,1 pc,https://de.aliexpress.com/item/1005006140555903.html
+TOTAL,,,Total price,10.79 / 7.51,,
