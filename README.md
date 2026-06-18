@@ -1,4 +1,5 @@
-<img width="1748" height="2480" alt="zine_page" src="https://github.com/user-attachments/assets/339108da-d36f-41c0-b784-b661226237a0" />
+<img width="2250" height="3450" alt="zine_page" src="https://github.com/user-attachments/assets/2ed36fa1-d9cc-4245-a218-4657d760afec" />
+
 
 # CableProbe
 
