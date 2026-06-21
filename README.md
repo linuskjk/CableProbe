@@ -133,4 +133,7 @@ I printed the case already the friction fit works perfectly fine and the battery
 4. Fit the OLED display into place
 5. Close the enclosure
 
+
+To the reviewer if you wonder about the 3d models of the usb-c ports on the pcb I sadly couldnt find any 3d models of it and I was told to just keep it like this. 
+
 Everything is designed to fit snugly without additional hardware.
