@@ -55,6 +55,8 @@ The ESP32 will run through the pins and display the results on the screen. It im
 ### PCB
 <img width="950" height="684" alt="pcb_bottom" src="https://github.com/user-attachments/assets/a61f7669-e9a4-4819-8e90-3f8fa5a18d07" />
 <img width="950" height="725" alt="pcb_top" src="https://github.com/user-attachments/assets/ff244258-df8e-4393-8c57-e0848a2a25be" />
+
+### ROUTING
 <img width="950" height="975" alt="routing" src="https://github.com/user-attachments/assets/86a75d5e-221b-4848-80ac-b43251dbb5ac" />
 
 ### SCHEMATIC
