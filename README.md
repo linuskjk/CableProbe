@@ -12,8 +12,6 @@ A custom ESP32-based tool to analyze and verify USB-C cables.
 - Basic connectivity check
 - Problem detection
 - Power troughput & quality
-- Data pin detection
-- High-speed data capability check
 - Fast Charging / Power Delivery support
 - General-purpose suitability testing
 
@@ -28,7 +26,7 @@ A custom ESP32-based tool to analyze and verify USB-C cables.
 
 ## Why?
 
-Ever bought a pile of cheap USB-C cables from AliExpress only to find out they have no data lines? Or struggled to figure out which cable actually supports fast charging?
+Ever bought a pile of cheap USB-C cables from AliExpress only to find out they are bad? Or struggled to figure out which cable actually supports fast charging?
 
 CableProbe was made to quickly sort through the cable drawer. It identifies the quality and features of almost any USB-C cable without needing a PC or complicated setup.
 
@@ -39,7 +37,6 @@ Simply plug both ends of your cable into the USB-C modules and follow the instru
 
 The ESP32 will run through the pins and display the results on the screen. It immediately tells you whether the cable is suitable for:
 - charging only,
-- data transfer,
 - fast charging,
 - or high-speed applications.
 
