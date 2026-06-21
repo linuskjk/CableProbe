@@ -1,4 +1,5 @@
-<img width="2250" height="3450" alt="zine_page" src="https://github.com/user-attachments/assets/2ed36fa1-d9cc-4245-a218-4657d760afec" />
+<img width="2250" height="3450" alt="zine_page" src="https://github.com/user-attachments/assets/b4015808-6fad-4db4-896c-b59ee94b27cf" />
+
 
 
 # CableProbe
@@ -106,6 +107,7 @@ No special equipment needed. Steady hand could be useful.
 3D print the provided STL files.
 
 Both PLA and PETG work perfectly fine. I recommend to use pla. 
+I printed the case already the friction fit works perfectly fine and the battery mount fits exactly as it should also the code and pcb are working perfectly too I tested it all already. 
 
 
 ## Programming 
