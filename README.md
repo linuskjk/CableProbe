@@ -60,6 +60,18 @@ The ESP32 will run through the pins and display the results on the screen. It im
 
 <img width="1531" height="855" alt="image" src="https://github.com/user-attachments/assets/a469540a-6040-448a-a4f0-806cb2855b1d" />
 
+### CASE
+
+https://github.com/user-attachments/assets/e5118ca8-60bc-48c1-94f0-9f646d53b27a
+
+### PROOF THAT MY FRICTION FIT WORKS
+
+https://github.com/user-attachments/assets/f6ddad3f-a20b-4f4a-b254-9df56e5059d4
+
+
+
+
+
 
 
 # Build Your Own
