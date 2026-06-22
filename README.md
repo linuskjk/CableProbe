@@ -51,8 +51,9 @@ The ESP32 will run through the pins and display the results on the screen. It im
 
 
 ### PCB
-<img width="950" height="684" alt="pcb_bottom" src="https://github.com/user-attachments/assets/a61f7669-e9a4-4819-8e90-3f8fa5a18d07" />
-<img width="950" height="725" alt="pcb_top" src="https://github.com/user-attachments/assets/ff244258-df8e-4393-8c57-e0848a2a25be" />
+<img width="1321" height="752" alt="image" src="https://github.com/user-attachments/assets/cbb0d944-4f7a-4fd6-b226-9f199946800d" />
+<img width="1288" height="892" alt="image" src="https://github.com/user-attachments/assets/97d341bf-0228-41b6-9c3c-042bd5814bf6" />
+
 
 ### ROUTING
 <img width="950" height="975" alt="routing" src="https://github.com/user-attachments/assets/86a75d5e-221b-4848-80ac-b43251dbb5ac" />
@@ -62,6 +63,7 @@ The ESP32 will run through the pins and display the results on the screen. It im
 <img width="1531" height="855" alt="image" src="https://github.com/user-attachments/assets/a469540a-6040-448a-a4f0-806cb2855b1d" />
 
 ### CASE
+## IMPORTANT: THIS IS NOT THE NEWEST VERSION OF THE CASE BUT IT USES THE EXACT SAME FRICTION FIT SO IT ALSO WORKS ON THE NEW VERSION.
 
 https://github.com/user-attachments/assets/e5118ca8-60bc-48c1-94f0-9f646d53b27a
 
