@@ -103,7 +103,7 @@ Recommended order:
 3. USB-C modules
 4. OLED display
 
-No special equipment needed. Steady hand could be useful.
+No special equipment needed.
 
 
 ## Case
