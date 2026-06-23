@@ -122,7 +122,7 @@ I printed the case already the friction fit works perfectly fine and the battery
 
   
 **Flashing** is straightforward:
-1. Open 'main.ino' from the 'code' folder in your prefered IDE.
+1. Open 'main.ino' from the 'firmware' folder in your prefered IDE.
 2. Select the correct ESP32 board (ESP32 devkit).
 3. Hit upload
 
