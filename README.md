@@ -122,15 +122,15 @@ I have already printed and tested the case. The friction fit works perfectly, an
 
   
 **Flashing** is straightforward:
-1. Open 'main.ino' from the 'firmware' folder in your prefered IDE.
-2. Select the correct ESP32 board (ESP32 devkit).
+1. Open 'main.ino' from the 'firmware' folder in your preferred IDE.
+2. Select the correct ESP32 board (ESP32 DevKit).
 3. Hit upload
 
 
 ## Assembly 
 
 1. Drop the PCB into the bottom half of the case
-2. Connect the battery to the charger module. (B+/- to charger module and output of that to V+/GND pin) it is not on the pcb on purpose as this saves up a lot of space and still works perfectly fine (even better, as bc of this the battery placement is more flexible. Just click the charger module in the space on the bottom of the case. It fits perfectly and whithholds a lot of strenght.
+2. Connect the battery to the charger module. (B+/- to charger module and output of that to V+/GND pin) it is not on the pcb on purpose as this saves up a lot of space and still works perfectly fine (even better, as because of this the battery placement is more flexible. Just click the charger module in the space on the bottom of the case. It fits perfectly and withstands a lot of strength.
 3. Allign the USB-C ports with the openings
 4. Fit the OLED display into place
 5. Close the enclosure
