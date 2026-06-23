@@ -98,7 +98,7 @@ The PCB is a simple custom design made to hold the ESP32, USB-C modules, and OLE
 
 
 Recommended order:
-1. Resisorts
+1. Resistors
 2. ESP32
 3. USB-C modules
 4. OLED display
