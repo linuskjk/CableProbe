@@ -116,7 +116,7 @@ I printed the case already the friction fit works perfectly fine and the battery
 
 ## Programming 
 
-**Install the following libraries** (you can find them under code/libraries or the library manager:
+**Install the following libraries** (you can find them under firmware/libraries or the library manager:
 - *Adafruit_GFX.h*
 - *Adafruit_SSD1306.h*
 
