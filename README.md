@@ -110,7 +110,7 @@ No special equipment needed.
 
 3D print the provided STL files.
 
-Both PLA and PETG work perfectly fine. I recommend to use pla. 
+Both PLA and PETG work perfectly fine. I recommend using PLA. 
 I printed the case already the friction fit works perfectly fine and the battery mount fits exactly as it should also the code and pcb are working perfectly too I tested it all already. 
 
 
