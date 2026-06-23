@@ -131,11 +131,11 @@ I have already printed and tested the case. The friction fit works perfectly, an
 
 1. Drop the PCB into the bottom half of the case
 2. Connect the battery to the charger module (B+/- to the battery terminals and the module output to V+/GND). The charger module is intentionally not mounted on the PCB to save space and allow more flexible battery placement. Simply press the module into the slot at the bottom of the case. It fits securely and withstands considerable force.
-3. Allign the USB-C ports with the openings
+3. Align the USB-C ports with the openings
 4. Fit the OLED display into place
 5. Close the enclosure
 
 
-To the reviewer if you wonder about the 3d models of the usb-c ports on the pcb I sadly couldnt find any 3d models of it and I was told to just keep it like this. 
+To the reviewer: if you are wondering about the 3D models of the USB-C modules on the PCB, I unfortunately couldn't find any suitable 3D models for them and was advised to leave them as they are.
 
 Everything is designed to fit snugly without additional hardware.
