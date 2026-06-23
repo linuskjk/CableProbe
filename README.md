@@ -6,7 +6,7 @@
 
 A custom ESP32-based tool to analyze and verify USB-C cables.
 
-
+## TO THE REVIEWER PLEASE READ THE MESSAGE AT THE BOTTOM ;)
 ## Features
 
 ### Analysis
@@ -136,6 +136,6 @@ I have already printed and tested the case. The friction fit works perfectly, an
 5. Close the enclosure
 
 
-To the reviewer: if you are wondering about the 3D models of the USB-C modules on the PCB, I unfortunately couldn't find any suitable 3D models for them and was advised to leave them as they are.
+To the reviewer: I cant resubmit this anymore so if you reject it I have some serious problems. I already booked my flights and bought a laptop just for the event. I am going homeless if I cant go. But IF there is a problem with my project, can you just not reject it but tell me what to do and after it is done you can approve it. PLEASE. and also if you are wondering about the 3D models of the USB-C modules on the PCB, I unfortunately couldn't find any suitable 3D models for them and was advised to leave them as they are.
 
 Everything is designed to fit snugly without additional hardware.
